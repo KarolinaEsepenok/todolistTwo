@@ -19,8 +19,8 @@ function App() {
 
     return (
         <div className="App">
-            <Todolist title="What to learn" tasks={tasks1}/>
-            <Todolist title="What to buy" tasks={tasks2}/>
+            <Todolist title={'ggggg'} tasks={tasks1} />
+            <Todolist title={'ddddd'} tasks={tasks2}  />
         </div>
     );
 }
